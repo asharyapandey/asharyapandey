@@ -41,6 +41,8 @@
 <br />
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asharyapandey&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 [linkedin]: https://www.linkedin.com/in/ashraya-pandey-b79bb5168/

@@ -4,7 +4,6 @@
 
 
 ## Connect with me:
-[<img align="left" alt="facebook" width="80px" height="20px" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />][facebook]
 [<img align="left" alt="asharyapandey | LinkedIn" width="80px"  height="20px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="asharyapandey | Instagram"   height="20px" src="https://img.shields.io/badge/<ashrayapandey>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
 [<img align="left" alt="asharyapandey | gmail"   height="20px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
